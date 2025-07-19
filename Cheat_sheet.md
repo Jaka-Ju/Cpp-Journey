@@ -1,18 +1,18 @@
 # Cheat sheet
 # Preperations
--Download a compiler(gcc) otherwise your code is just **worthless** text (I won't explain how a compiler works in detail, but remember-- you **need** a compiler to translate between you and your computer)
--#include <iostream> 
+-Download a compiler(gcc) otherwise your code is just **worthless** text (I won't explain how a compiler works in detail, but remember-- you **need** a compiler to translate between you and your computer)<br>
+-#include `<iostream>` 
 
 # Syntax 
 
 ## main method 
--The start of ervery Programm
--You need that
+-The start of ervery Programm<br>
+-You need that<br>
 ### example
-int main() 
-{
-//your code
-return 0;
+int main() <br>
+{<br>
+//your code<br>
+return 0;<br>
 } 
 
 
