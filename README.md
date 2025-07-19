@@ -10,7 +10,6 @@ a journey to reinforce and advance my c++ knowledge
 -In order to help other people :)<br> 
 
 ## Resources I will produce along my journey<br>
--**Progress Log**<br>
 -**Cheat sheet**<br>
 
 
