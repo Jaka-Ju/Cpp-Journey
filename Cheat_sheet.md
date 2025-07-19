@@ -1,7 +1,7 @@
 # Cheat sheet
 # Preperations
 -Download a compiler(gcc) otherwise your code is just **worthless** text (I won't explain how a compiler works in detail, but remember-- you **need** a compiler to translate between you and your computer)
-- #include <iostream> 
+-#include <iostream> 
 
 # Syntax 
 
