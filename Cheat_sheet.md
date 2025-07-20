@@ -38,7 +38,7 @@ bool isActive = true;            // Boolean: true or false <br>
 char name[] = "Alice";
 
 ### Option 2
-#include <string>    //use this library <br> 
+#include `<string>`    //use this library <br> 
 std::string greeting = "Hello, world!";<br> 
 
 ## User-Defined Types
@@ -82,7 +82,7 @@ union UnionName {  //They share the same memory space
 
 ### Cout
 int main() {
-    cout << "Hello, world!" << endl; //Writes Hello, World into the Terminal<br>
+    std::cout << "Hello, world!" << endl; //Writes Hello, World into the Terminal<br>
     return 0;                        // << is the similar as a +  <br>
 }<br>
 
@@ -99,8 +99,8 @@ int main() {
 int main(){<br>
 <br>
 int age;<br>       
-cout << "Enter your age: ";<br> 
-cin >> age;//Saves your input into the variable age<br>
+std::cout << "Enter your age: ";<br> 
+std::cin >> age;//Saves your input into the variable age<br>
 <br>
 return 0;<br>
 }<br>
